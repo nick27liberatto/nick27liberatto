@@ -1,13 +1,16 @@
-### Hey there!
+## Hey there!
 
 My name is Nicolas. I was born and raised in Brazil, and I am currently an intern at Portos do Paraná.
 For me coding it's like a big endless puzzle, the more I learn, more pieces I can solve.
 
 ---
 
-#Currently studying:
+### Currently studying:
 
-[HTML] [CSS] [JAVASCRIPT] [GOLANG] 
+- HTML 
+- CSS 
+- JAVASCRIPT 
+- GOLANG 
 
 <!--
 **nick27liberatto/nick27liberatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

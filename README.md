@@ -2,7 +2,7 @@
 
 ### About me 🔍
 
-I am Nico, short for Nicolas. Started studying programming languages last year in my College, it was the very first contact I had with codes and all this deeply tech world. Since then I fell in love with it. I always loved solving puzzles, mysteries and the logic itself. Discovering a field that aligns so perfectly with these concepts has been incredibly enjoyable for me. Now, I am focusing on learning commonly used patterns, features, tools, and more, at the professional environment. I am looking foward to meet new people in this area and share projects, ideas and understanding of this extensive tech world. Thanks for reading and let's code!
+I am Nico, short for Nicolas. Started studying programming languages last year in my College, it was the very first contact I had with codes and all this deeply tech world. Since then I fell in love with it. I always loved solving puzzles, mysteries and the logic itself. So discovering a field that aligns so perfectly with these concepts has been incredibly enjoyable for me. Now, I am focusing on learning commonly used patterns, features, tools, and more, at the professional environment. I'm looking foward to meet new people in this area and share projects, ideas and understanding of this extensive tech world. Thanks for reading and let's code!
 
 ---
 

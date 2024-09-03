@@ -1,16 +1,30 @@
-## Hey there!
+# Hey friend! 👋
 
-My name is Nicolas. I was born and raised in Brazil, and I am currently an intern at Portos do Paraná.
-For me coding it's like a big endless puzzle, the more I learn, more pieces I can solve.
+### About me 🔍
+
+I am Nico, short for Nicolas. Started studying programming languages last year in my College, it was the very first contact I had with codes and all this deeply tech world. Since then I fell in love with it. I always loved solving puzzles, mysteries and the logic itself. So learning something new with such a match if this concepts was really enjoyable for me. Now, I am focusing on learning commonly used patterns, features, tools, and more, at the professional environment. I am looking foward to meet new people in this area and share projects, ideas and understanding of this extensive tech world. Thanks for reading and let's code!
 
 ---
 
-### Currently studying:
+### 💻 Current at
 
-- HTML 
-- CSS 
-- JAVASCRIPT 
-- GOLANG 
+- Intern at Portos do Paraná: Analysing and Collaborating with Corporative Projects.
+- Fourth Semester of a Three and a Half Years College about Information Systems.
+
+### 📖 Studying about
+
+- JavaScript
+- Express
+- NodeJS
+
+### 👾 Known Technologies 
+
+- C
+- GoLang
+- Python
+- HTML
+- CSS
+- SQL
 
 <!--
 **nick27liberatto/nick27liberatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

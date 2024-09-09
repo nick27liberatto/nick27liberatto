@@ -15,7 +15,7 @@ Thanks for reading and let's code!
 ### 💻 Current at
 
 - Intern at Portos do Paraná: Analysing and Collaborating with Corporative Projects.
-- Fourth Semester of a Three and a Half Years College about Information Systems.
+- Fourth Semester of a Three and a Half Years Bachelor Degree about Systems of Information.
 
 ### 📖 Studying about
 

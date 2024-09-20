@@ -26,11 +26,9 @@ Thanks for reading and let's code!
 ### 👾 Known Technologies 
 
 - C
-- GoLang
-- Python
 - HTML
 - CSS
-- SQL
+- Powershell
 
 <!--
 **nick27liberatto/nick27liberatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

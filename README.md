@@ -14,7 +14,7 @@ Thanks for reading and let's code!
 
 ### 💻 Current at
 
-- Intern at Portos do Paraná: Analysing and Collaborating with Corporative Projects.
+- Intern at Terminal de Contêineres de Paranaguá: Working with DevOps and AWS.
 - Fourth Semester of a Three and a Half Years Bachelor Degree about Systems of Information.
 
 ### 📖 Studying about

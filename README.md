@@ -14,14 +14,17 @@ Thanks for reading and let's code!
 
 ### 💻 Current at
 
-- Intern at Terminal de Contêineres de Paranaguá: Working with DevOps and AWS.
+- Intern at Terminal de Contêineres de Paranaguá: Working with DevOps.
 - Fourth Semester of a Three and a Half Years Bachelor Degree about Systems of Information.
 
 ### 📖 Studying about
 
-- JavaScript
-- Express
-- NodeJS
+
+- Kubernetes
+- Ansible
+- Bash Shell
+- System Design
+
 
 ### 👾 Known Technologies 
 
@@ -29,6 +32,7 @@ Thanks for reading and let's code!
 - HTML
 - CSS
 - Powershell
+- JavaScript
 
 <!--
 **nick27liberatto/nick27liberatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

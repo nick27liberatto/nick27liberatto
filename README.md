@@ -19,15 +19,20 @@ Thanks for reading and let's code!
 
 ### 📖 Studying about
 
+#### Dev
 
-- Kubernetes
-- Ansible
-- Prometheus
+- C#
+- .NET Core
 - System Design
 
+#### DevOps
 
-### 👾 Known Technologies 
+- Kubernetes
+- Microservices
 
+### 👾 Some of Known Technologies 
+
+#### Dev
 - HTML
 - CSS
 - Powershell
@@ -35,6 +40,10 @@ Thanks for reading and let's code!
 - Python
 - Bash Shell
 
+#### DevOps
+
+- Prometheus
+- Grafana
 <!--
 **nick27liberatto/nick27liberatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

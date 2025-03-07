@@ -23,7 +23,7 @@ Thanks for reading and let's code!
 
 - C#
 - .NET Core
-- System Design
+- Angular
 
 #### DevOps
 

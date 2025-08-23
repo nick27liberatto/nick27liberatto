@@ -17,44 +17,36 @@ Thanks for reading and let's code!
 - Intern at Terminal de Contêineres de Paranaguá: Working with DevOps.
 - Fifth Semester of a Three and a Half Years Bachelor Degree about Systems of Information.
 
-### 📖 Studying about
-
-#### Dev
-
-- C#
-- .NET Core
-- Angular
-
-#### DevOps
-
-- Kubernetes
-- Microservices
-
 ### 👾 Some of Known Technologies 
 
-#### Dev
-- HTML
-- CSS
-- Powershell
-- JavaScript
-- Python
-- Bash Shell
+### Dev
 
-#### DevOps
+<div style="display: inline_block">
+  
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="angular" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png">
+  
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="netcore" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png">
+  
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="oracle" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png">
+  
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="mongodb" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png">
+  
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="nodejs" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+  
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
+</div>
 
-- Prometheus
-- Grafana
-<!--
-**nick27liberatto/nick27liberatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+            
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="bash" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="kubernetes" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png">
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png">
+           
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="grafana" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png">
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="prometheus" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png">
+  <img style="margin: auto 50px" width="50" height="50" align="center" alt="linux" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png">
+
+</div>

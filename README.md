@@ -12,10 +12,10 @@ Thanks for reading and let's code!
 
 ---
 
-### Current working at 💻
+### Current at 💻
 
-- Intern at Terminal de Contêineres de Paranaguá: Working with DevOps.
-- Fifth Semester of a Three and a Half Years Bachelor Degree about Systems of Information.
+- Intern at Terminal de Contêineres de Paranaguá: Working with Web Development.
+- Sixth Semester of a Three and a Half Years Bachelor Degree about Systems of Information.
 
 ### Dev
 

@@ -48,3 +48,7 @@ Thanks for reading and let's code!
   <img style="margin: auto 50px" width="50" height="50" align="center" alt="linux" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png">
 
 </div>
+
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick27liberatto)](https://github.com/nick27liberatto/github-readme-stats)
